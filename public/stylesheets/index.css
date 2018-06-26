@@ -145,7 +145,7 @@ html, body, #welcome-section {
 
 }
 
-@media (max-width: 737px) {
+@media only screen and (max-width: 737px) {
   /* ALL */
 
   html {
