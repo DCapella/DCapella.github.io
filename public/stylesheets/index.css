@@ -1,6 +1,15 @@
-html, body {
-  max-width: 100%;
+/* ALL */
+* {
+  box-sizing: border-box;
+}
+
+html {
   overflow-x: hidden;
+}
+
+html, body {
+  font-size: 120%;
+  max-width: 100%;
 }
 
 body {
@@ -8,8 +17,280 @@ body {
   color: #f2f2f2;
 }
 
+a {
+  color: #f2f2f2;
+  text-decoration: none;
+}
+
+a:hover {
+  color: grey;
+  text-decoration: underline;
+}
+
+/* HEADER */
+
+header {
+  z-index: 1;
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  top: 0;
+  left: 0;
+  background-color: black;
+  width: 100%;
+  max-width: 100%;
+}
+
+#name {
+  margin: 25px;
+}
+
+#navbar {
+  margin: auto 20px auto auto;
+}
+
+.nav-links {
+  margin: 25px 50px 0 0;
+}
+
+/* WELCOME SECTION */
+
+html, body, #welcome-section {
+  height: 100%;
+}
+
 #welcome-section {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#numbers-tribute {
+  background-image: url("../images/numbers-tribute-ss.png");
+  background-size: contain;
+}
+
+/* LINE COLORS */
+
+.hr-green {
+  width: 400px;
+  max-width: 65%;
+  border-bottom: 2px solid green;
+}
+
+.hr-blue {
+  width: 400px;
+  max-width: 65%;
+  border-bottom: 2px solid darkblue;
+}
+
+.hr-orange {
+  width: 400px;
+  max-width: 65%;
+  border-bottom: 2px solid darkorange;
+}
+
+/* PROJECTS SECTION */
+
+#projects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 50%;
+  margin-bottom: 200px;
+}
+
+#projects img {
+  width: 100%;
+  height: 100%;
+  border: solid darkblue 2px;
+}
+
+.project-tile {
+  margin: 75px 50px;
+  width: 450px;
+  max-width: 50%;
+  height: 350px;
+  text-align: center;
+}
+
+.project-row {
+  display: flex;
+  flex-direction: row;
+}
+
+/* CONTACT */
+#contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 50%;
+  margin-bottom: 200px;
+}
+
+#contact h4 {
+  font-size: 150%;
+}
+
+.contact-row {
+  margin-top: 100px;
+}
+
+.contact-row a {
+  margin: 0 50px 0 50px;
+}
+
+@media (max-width: 1115px) {
+
+}
+
+@media (max-width: 737px) {
+  /* ALL */
+
+  html {
+  }
+
+  html, body {
+    /* font-size: 120%;
+    max-width: 100%;
+    overflow: visible; */
+  }
+
+  body {
+    /* background-color: black;
+    color: #f2f2f2; */
+  }
+
+  a {
+    /* color: #f2f2f2;
+    text-decoration: none; */
+  }
+
+  a:hover {
+    /* color: grey;
+    text-decoration: underline; */
+  }
+
+  /* HEADER */
+
+  header {
+    /* z-index: 1;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    background-color: black;
+    width: 100%;
+    max-width: 100%; */
+  }
+
+  #name {
+    display: none;
+    /* margin: 25px; */
+  }
+
+  #navbar {
+    margin: 0;
+    /* margin: auto 20px auto auto; */
+  }
+
+  .nav-links {
+    margin: 0;
+    /* margin: 25px 50px 0 0; */
+  }
+
+  /* WELCOME SECTION */
+
+  html, body, #welcome-section {
+    /* height: 100%; */
+  }
+
+  #welcome-section {
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+  }
+
+  #numbers-tribute {
+    /* background-image: url("../images/numbers-tribute-ss.png");
+    background-size: contain; */
+  }
+
+  /* LINE COLORS */
+
+  .hr-green {
+    /* width: 400px;
+    max-width: 65%;
+    border-bottom: 2px solid green; */
+  }
+
+  .hr-blue {
+    /* width: 400px;
+    max-width: 65%;
+    border-bottom: 2px solid darkblue; */
+  }
+
+  .hr-orange {
+    /* width: 400px;
+    max-width: 65%;
+    border-bottom: 2px solid darkorange; */
+  }
+
+  /* PROJECTS SECTION */
+
+  #projects {
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 50%;
+    margin-bottom: 200px; */
+    margin: 0;
+  }
+
+  #projects img {
+    /* width: 100%;
+    height: 100%;
+    border: solid darkblue 2px; */
+  }
+
+  .project-tile {
+    margin: 0;
+    /* margin: 75px 50px;
+    width: 450px;
+    max-width: 50%;
+    height: 350px;
+    text-align: center; */
+  }
+
+  .project-row {
+    flex-direction: column;
+    /* display: flex;
+    flex-direction: row; */
+  }
+
+  /* CONTACT */
+  #contact {
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 50%;
+    margin-bottom: 200px; */
+  }
+
+  #contact h4 {
+    /* font-size: 150%; */
+  }
+
+  .contact-row {
+    /* margin-top: 100px; */
+    margin: 0;
+  }
+
+  .contact-row a {
+    /* margin: 0 50px 0 50px; */
+    margin: 0;
+  }
 }
