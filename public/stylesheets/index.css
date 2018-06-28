@@ -141,8 +141,6 @@ html, body, #welcome-section {
 }
 
 .contact-row {
-  margin-top: 100px;
-  height: 200px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -177,5 +175,9 @@ html, body, #welcome-section {
 
   #contact {
     margin-bottom: 20px;
+  }
+
+  .contact-row a {
+    margin: 50px 75px 50px 75px;
   }
 }
