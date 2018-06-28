@@ -4,12 +4,12 @@
 }
 
 html {
-  overflow-x: hidden;
+  overflow-x: hidden !important;
 }
 
 html, body {
   font-size: 120%;
-  max-width: 100%;
+  max-width: 100% !important;
 }
 
 body {
@@ -125,6 +125,7 @@ html, body, #welcome-section {
   justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
+  max-width: 100%;
 }
 
 /* CONTACT */
@@ -144,6 +145,7 @@ html, body, #welcome-section {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  margin-top: 75px;
 }
 
 .contact-row a {
@@ -175,6 +177,10 @@ html, body, #welcome-section {
 
   #contact {
     margin-bottom: 20px;
+  }
+
+  .contact-row {
+    margin-top: 50px;
   }
 
   .contact-row a {
