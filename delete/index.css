@@ -1,0 +1,27 @@
+html, body {
+  /* center page */
+  height: 100%;
+}
+
+body {
+  /* center page */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  background-color: black;
+  color: lightgrey;
+}
+
+#main, #section-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 500px;
+}
+
+#section-1 {
+  /* height: 400px; */
+}
