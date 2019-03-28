@@ -7,8 +7,12 @@ As a veteran turned data engineer, I have a diverse background allowing me to br
 I am a data engineer who loves to program.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-## Data Science Projects
+## Personal Data Science Projects
  * [Linear Regression Practice](./linear-regression-practice) <sub>23 March 2019</sub>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+## School Data Science Projects
+ <sub><sub>Soon to update.</sub></sub>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Python Practice
