@@ -16,8 +16,9 @@ I am a data engineer who loves to program.
  * [Data Types](./python-dtypes)
 
 # Contact Me
+
 <script type="text/javascript">var submitted=false;</script>
-         <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='http://davidcapella.com';}"></iframe>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='http://davidcapella.com';}"></iframe>
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLScfEWsu7Q6izDrX7FvOI3PnVkPyTnS1p_vhvCNSzziUknuO2A/formResponse" method="post" target="hidden_iframe" 
 onsubmit="submitted=true;">
