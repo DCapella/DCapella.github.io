@@ -12,6 +12,7 @@ I am a data engineer who loves to program.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Python Practice
+ * [Intro to Conditional Statements](./intro-conditional-statements)
  * [Operators](./python-operators)
  * [Data Types](./python-dtypes)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
