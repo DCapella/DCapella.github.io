@@ -34,6 +34,6 @@ onsubmit="submitted=true;">
   <label>Message:</label><br>
   <textarea rows="10" name="entry.801311056" placeholder="Message" style="width:100%;"></textarea>
   <br><br>
-  <button type="submit" value="Send" class="btn-custom"/>
+  <input type="submit" value="Send" class="btn-custom"/>
 
 </form>
