@@ -36,22 +36,24 @@
       <section id="main_content" class="inner">
         {{ content }}
       </section>
+      
      <!--CONTACT FORM -->
-      <script type="text/javascript">var submitted=false;</script>
-      <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='#';}"></iframe>
-      <form class="form" action="https://docs.google.com/forms/d/e/1FAIpQLScfEWsu7Q6izDrX7FvOI3PnVkPyTnS1p_vhvCNSzziUknuO2A/formResponse">
-   
-        <label>Name</label>
-        <input name="entry.894931768" type="text" />
-
-<!--         <label>Email</label>
-        <input name="" type="email" required /> -->
-
-
-        <input type="submit" value="Send" />
+       <script type="text/javascript">var submitted=false;</script>
+       <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='http://davidcapella.com';}"></iframe>
+ 
+      <form action="https://docs.google.com/forms/d/e/1FAIpQLScfEWsu7Q6izDrX7FvOI3PnVkPyTnS1p_vhvCNSzziUknuO2A/formResponse" method="post" target="hidden_iframe" 
+      onsubmit="submitted=true;">
+            <label>Name</label>
+            <input name="entry.894931768" type="text" placeholder="Name" />
+            <br>
+<!--             <label>Email</label>
+            <input name="ENTRY HERE" type="email" placeholder="Email"/>
+            <br> -->
+            <input type="submit" value="Send" />
 
       </form>
-    </div>
+     <!--END-->
+      
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
