@@ -32,7 +32,7 @@ onsubmit="submitted=true;">
   <input name="entry.155938160" type="email" placeholder="Email"/>
   <br><br>
   <label>Message:</label><br>
-  <textarea rows="10" name="entry.801311056" placeholder="Message" style="width:25%;"></textarea>
+  <textarea rows="10" name="entry.801311056" placeholder="Message" style="width:100%;"></textarea>
   <br><br>
   <input type="submit" value="Send" />
 
