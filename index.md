@@ -12,7 +12,7 @@ I am a data engineer who loves to program.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## School Data Science Projects
- <sub><sub>Soon to update.</sub></sub>
+ * [Ames Housing Price Predictions](./predict-ames-home-prices)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Python Practice
