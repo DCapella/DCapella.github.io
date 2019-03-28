@@ -24,9 +24,11 @@ I am a data engineer who loves to program.
 <form action="https://docs.google.com/forms/d/e/1FAIpQLScfEWsu7Q6izDrX7FvOI3PnVkPyTnS1p_vhvCNSzziUknuO2A/formResponse" method="post" target="hidden_iframe" 
 onsubmit="submitted=true;">
   <label>Name:</label>
+  <br>
   <input name="entry.894931768" type="text" placeholder="Name" />
   <br>
   <label>Email:</label>
+  <br>
   <input name="entry.155938160" type="email" placeholder="Email"/>
   <br>
   <label>Message:</label><br>
