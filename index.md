@@ -23,14 +23,14 @@ I am a data engineer who loves to program.
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLScfEWsu7Q6izDrX7FvOI3PnVkPyTnS1p_vhvCNSzziUknuO2A/formResponse" method="post" target="hidden_iframe" 
 onsubmit="submitted=true;">
-  <label>Name</label>
+  <label>Name:</label>
   <input name="entry.894931768" type="text" placeholder="Name" />
-  <br><br>
-  <label>Email</label>
+  <br>
+  <label>Email:</label>
   <input name="entry.155938160" type="email" placeholder="Email"/>
-  <br><br>
-  <label>Message</label><br>
-  <textarea name="entry.801311056" placeholder="Message"></textarea>
+  <br>
+  <label>Message:</label><br>
+  <textarea rows="10" cols="75" name="entry.801311056" placeholder="Message"></textarea>
   <br><br>
   <input type="submit" value="Send" />
 
