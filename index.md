@@ -16,6 +16,7 @@ I am a data engineer who loves to program.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Python Practice
+* [Review](./python-even-odd-strings)
  * [Loops](./python-loops)
  * [Class Vs. Instance](./python-class)
  * [Intro to Conditional Statements](./intro-conditional-statements)
