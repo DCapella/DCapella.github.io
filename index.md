@@ -16,6 +16,7 @@ I am a data engineer who loves to program.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Python Practice
+* [Dictionaries](./python-dictionaries)
 * [Arrays](./python-arrays)
 * [Review](./python-even-odd-strings)
  * [Loops](./python-loops)
