@@ -16,14 +16,16 @@ I am a data engineer who loves to program.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Python Practice
+
+* [Recursion](./python-recursion)
 * [Dictionaries](./python-dictionaries)
 * [Arrays](./python-arrays)
 * [Review](./python-even-odd-strings)
- * [Loops](./python-loops)
- * [Class Vs. Instance](./python-class)
- * [Intro to Conditional Statements](./intro-conditional-statements)
- * [Operators](./python-operators)
- * [Data Types](./python-dtypes)
+* [Loops](./python-loops)
+* [Class Vs. Instance](./python-class)
+* [Intro to Conditional Statements](./intro-conditional-statements)
+* [Operators](./python-operators)
+* [Data Types](./python-dtypes)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Contact Me
