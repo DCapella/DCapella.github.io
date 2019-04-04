@@ -15,8 +15,9 @@ I am a data engineer who loves to program.
  * [Ames Housing Price Predictions](./predict-ames-home-prices)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-## Python Practice
+## Python Warm-up
 
+* [Binary](./python-binary)
 * [Recursion](./python-recursion)
 * [Dictionaries](./python-dictionaries)
 * [Arrays](./python-arrays)
