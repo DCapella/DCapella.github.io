@@ -5,7 +5,7 @@ As a veteran turned data engineer, I have a diverse background allowing me to br
 
 ### tl;dr
 I am a data engineer who loves to program.
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 ## Personal Data Science Projects
  * [Linear Regression Practice](./linear-regression-practice) <sub>23 March 2019</sub>
@@ -13,7 +13,7 @@ I am a data engineer who loves to program.
 
 ## School Data Science Projects
  * [Ames Housing Price Predictions](./predict-ames-home-prices)
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 ## Python Warm-up
 
@@ -28,7 +28,7 @@ I am a data engineer who loves to program.
 * [Intro to Conditional Statements](./intro-conditional-statements)
 * [Operators](./python-operators)
 * [Data Types](./python-dtypes)
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 ## Contact Me
 
