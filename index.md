@@ -17,6 +17,7 @@ I am a data engineer who loves to program.
 
 ## Python Warm-up
 
+* [2D Arrays](./python-2d-arrays)
 * [Binary](./python-binary)
 * [Recursion](./python-recursion)
 * [Dictionaries](./python-dictionaries)
