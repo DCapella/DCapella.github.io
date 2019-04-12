@@ -17,6 +17,7 @@ I am a data engineer who loves to program.
 
 ## Python Warm-up
 
+* [String to Integer](./python-str-int)
 * [Linked List](./python-linked-list)
 * [Scope](./python-scope)
 * [Abstract Classes](./python-abstract-classes)
