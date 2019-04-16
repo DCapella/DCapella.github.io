@@ -17,6 +17,7 @@ I am a data engineer who loves to program.
 
 ## Python Warm-up
 
+* [More Exceptions](./python-more-exceptions)
 * [String to Integer](./python-str-int)
 * [Linked List](./python-linked-list)
 * [Scope](./python-scope)
