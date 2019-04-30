@@ -9,7 +9,7 @@ I am a data engineer who loves to program.
 
 ## Data Science Projects
 
-* [Evacuation Routres](./evacuation-routes)
+* [Evacuation Routes](./evacuation-routes)
 * [Linear Regression Practice](./linear-regression-practice)
 * [Ames Housing Price Predictions](./predict-ames-home-prices)
 <br/><br/><br/>
