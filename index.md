@@ -7,16 +7,16 @@ As a veteran turned data engineer, I have a diverse background allowing me to br
 I am a data engineer who loves to program.
 <br/><br/><br/>
 
-## Personal Data Science Projects
- * [Linear Regression Practice](./linear-regression-practice) <sub>23 March 2019</sub>
-<br/><br/><br/><br/><br/>
+## Data Science Projects
 
-## School Data Science Projects
- * [Ames Housing Price Predictions](./predict-ames-home-prices)
+* [Evacuation Routres](./evacuation-routes)
+* [Linear Regression Practice](./linear-regression-practice)
+* [Ames Housing Price Predictions](./predict-ames-home-prices)
 <br/><br/><br/>
 
 ## Python Warm-up
 
+* [Bubble Sort](./python-bubble-sort)
 * [Interfaces](./python-interfaces)
 * [Queues and Stacks](./python-queues-stacks)
 * [More Exceptions](./python-more-exceptions)
