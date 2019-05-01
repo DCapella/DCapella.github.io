@@ -16,6 +16,7 @@ I am a data engineer who loves to program.
 
 ## Python Warm-up
 
+* [Binary Search Tree](./python-bst)
 * [Bubble Sort](./python-bubble-sort)
 * [Interfaces](./python-interfaces)
 * [Queues and Stacks](./python-queues-stacks)
