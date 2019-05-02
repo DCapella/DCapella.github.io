@@ -1,5 +1,5 @@
 ## About Me
-Rain + Coffee + Programming = Love. In my fascinating adventure of life; there is always something new to explore.
+Rain + Coffee + Programming = Life. In my fascinating adventure of life; there is always something new to explore.
 
 As a veteran turned data engineer, I have a diverse background allowing me to bring data, programming, and people into one. Technology is my passion, therefore will never feel like work.
 
@@ -16,6 +16,7 @@ I am a data engineer who loves to program.
 
 ## Python Warm-up
 
+* [BST Level Order](./python-bst-level-order)
 * [Binary Search Tree](./python-bst)
 * [Bubble Sort](./python-bubble-sort)
 * [Interfaces](./python-interfaces)
