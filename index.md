@@ -16,6 +16,7 @@ I am a data engineer who loves to program.
 
 ## Python Warm-up
 
+* [More Linked Lists](./python-more-linked-lists)
 * [BST Level Order](./python-bst-level-order)
 * [Binary Search Tree](./python-bst)
 * [Bubble Sort](./python-bubble-sort)
