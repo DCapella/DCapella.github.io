@@ -1,5 +1,8 @@
+<a href="https://www.testdome.com/cert/c19bb2cdace84677bf9961d13ff3b6a8" class="testdome-certificate-stamp gold"><span class="testdome-certificate-name">David Capella</span><span class="testdome-certificate-test-name">Python </span><span class="testdome-certificate-card-logo">TestDome<br />Certificate</span></a><script type="text/javascript">var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css", link = document.createElement("link"); link.href = stylesheet, link.type = "text/css", link.rel = "stylesheet", link.media = "screen,print", document.getElementsByTagName("head")[0].appendChild(link);</script>
+
 ## About Me
 Rain + Coffee + Programming = Life. In my fascinating adventure of life; there is always something new to explore.
+
 
 As a veteran turned data engineer, I have a diverse background allowing me to bring data, programming, and people into one. Technology is my passion, therefore will never feel like work.
 
